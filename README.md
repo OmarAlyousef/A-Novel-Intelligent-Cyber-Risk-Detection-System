@@ -17,7 +17,7 @@ An intelligent cyber risk detection framework that combines Artificial Intellige
 	•	outputs/ : Reports, plots, blockchain logs
 
 # 📊 Dataset
-	•	CIC-IDS2017 or UNSW-NB15 datasets
+	•	CTU-IoT-Malware-Capture
 
 # ⚙️ How to Run
  <pre>
