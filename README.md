@@ -8,16 +8,17 @@ An intelligent cyber risk detection framework that combines Artificial Intellige
 	•	Anomaly Detection: Flags unusual network behaviors.
 	•	Blockchain Logging: Stores security events securely and tamper-proof.
 	•	Performance Evaluation: Confusion Matrix, ROC Curve, F1-score, and more.
+ 
 # project/
-│── data/                # Dataset (CSV)
-│── main.py               # Main execution script
-│── requirements.txt      # Python dependencies
-│── README.md             # Project description
-│── outputs/              # Reports, plots, blockchain logs
+├── data/               # Dataset files (CSV)
+├── main.py             # Main execution script
+├── requirements.txt    # Python dependencies
+├── README.md           # Project description and usage
+└── outputs/            # Reports, plots, blockchain logs
 
 # Dataset
 	•	CIC-IDS2017 or UNSW-NB15 datasets
-	•	Real-world network traffic with labeled benign and malicious samples.
+	
  
  # Create virtual environment
 python -m venv venv
