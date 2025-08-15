@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seabornrequirements
+tqdm
+spacy
+web3
+catboost
+py-solc-x
