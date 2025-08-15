@@ -21,16 +21,21 @@ An intelligent cyber risk detection framework that combines Artificial Intellige
 
 # ⚙️ How to Run
 
- Create a virtual environment
+ <pre>
+```bash
+# 1. Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # For Linux/macOS
 venv\Scripts\activate      # For Windows
 
-Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 
-Run the model
+# 3. Run the model
 python main.py
+```
+</pre>
+
 
 # ✅ Expected Output
 	•	Accuracy, Precision, Recall, and F1-score
