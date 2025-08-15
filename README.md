@@ -39,4 +39,8 @@ python main.py
 	•	Confusion Matrix & ROC Curve visualizations
 	•	Blockchain transaction logs for detected anomalies
 	•	NLP-generated threat intelligence report
+
+ # Useful Link
+
+ https://github.com/OmarAlyousef/A-Novel-Intelligent-Cyber-Risk-Detection-System/blob/main/Associated_Data.md
  
