@@ -18,6 +18,7 @@ An intelligent cyber risk detection framework that combines Artificial Intellige
 
 # 📊 Dataset
 	•	CTU-IoT-Malware-Capture
+    •  CIC-IDS2017
 
 # ⚙️ How to Run
  <pre>
