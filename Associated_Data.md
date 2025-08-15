@@ -25,7 +25,7 @@ Detect and classify malicious network flows in IoT traffic, including Botnet, DD
 https://www.unb.ca/cic/datasets/ids-2017.html
 
 # 🔍 Dataset Description
-- **File Used:** MachineLearningCSV.zip (CSV files extracted from network traffic flows)
+- **File Used:** CIC-IDS2017 : MachineLearningCSV.zip (CSV files extracted from network traffic flows)
 - **Source:** Canadian Institute for Cybersecurity – University of New Brunswick (UNB)
 - **Rows:** Over 2.2 million records across all combined files
 - **Columns:** 79 columns (78 numeric features + 1 label column)
