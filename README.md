@@ -20,9 +20,7 @@ An intelligent cyber risk detection framework that combines Artificial Intellige
 	•	CIC-IDS2017 or UNSW-NB15 datasets
 
 # ⚙️ How to Run
-
  <pre>
-```bash
 # 1. Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # For Linux/macOS
@@ -33,7 +31,6 @@ pip install -r requirements.txt
 
 # 3. Run the model
 python main.py
-```
 </pre>
 
 
